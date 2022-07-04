@@ -9,3 +9,6 @@ Pueden hacer lo que quieran...
 ## GitHub
 
 Actualizamo desde GitHub
+
+## Cambios
+
