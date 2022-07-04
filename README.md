@@ -10,5 +10,5 @@ Pueden hacer lo que quieran...
 
 Actualizamo desde GitHub
 
-## Cambios
+## Cambios desde GitHub
 
